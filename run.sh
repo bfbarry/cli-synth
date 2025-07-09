@@ -1,0 +1,1 @@
+gcc -g -Wall -Wextra  -framework AudioToolbox -framework CoreAudio main.c -o main -lpthread && ./main
